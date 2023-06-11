@@ -1,0 +1,7 @@
+poetry.toml
+/setup_database/data
+/setup_database/pgadmin
+.vscode
+.venv
+.env
+__pycache__
